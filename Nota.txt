@@ -1,0 +1,11 @@
+
+Your Nota
+
+Name item: Mie Ayam
+Price: 10000
+Quantity: 3
+Total Price: 30000
+Total Money: 50000
+Return: 20000
+
+thank you for buying
